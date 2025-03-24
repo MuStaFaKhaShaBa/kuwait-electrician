@@ -4,62 +4,248 @@
   <!-- URL Entry for -->
 <url>
   <loc>https://kuwait-electrician.com/</loc>
-  <lastmod>2025-03-04</lastmod>
+  <lastmod>2025-03-24</lastmod>
 
   <!-- Image 1: Electrician Services -->
   <image:image>
     <image:loc>https://kuwait-electrician.com/img/poster-kw-1.png</image:loc>
-    <image:caption>نقدم خدمات كهربائية متكاملة تشمل صيانة المنازل، تركيب الأنظمة الكهربائية، وإصلاح الأعطال باحترافية عالية.</image:caption>
-    <image:title>فني كهربائي متخصص في الكويت - صيانة وتركيب الأنظمة الكهربائية</image:title>
+    <image:caption>خدمات كهربائية متخصصة في الكويت تشمل صيانة المنازل، تركيب الأنظمة الكهربائية، وإصلاح الأعطال بكفاءة عالية.</image:caption>
+    <image:title>فني كهربائي في الكويت - خدمات صيانة وتركيب كهربائية</image:title>
   </image:image>
 
   <!-- Image 2: Electrician Services -->
   <image:image>
     <image:loc>https://kuwait-electrician.com/img/poster-kw-2.png</image:loc>
-    <image:caption>فني كهربائي محترف يقدم خدمات صيانة وإصلاح كهرباء المنازل والشركات بأسعار مناسبة وجودة عالية.</image:caption>
-    <image:title>خدمات كهربائية متكاملة في الكويت - صيانة وإصلاح باحترافية</image:title>
+    <image:caption>فني كهربائي معتمد يقدم خدمات صيانة وإصلاح كهرباء المنازل والشركات بأسعار تنافسية وجودة ممتازة.</image:caption>
+    <image:title>خدمات كهربائية شاملة في الكويت - صيانة وإصلاح بجودة عالية</image:title>
   </image:image>
 
   <!-- Image 3: Electrician Services -->
   <image:image>
     <image:loc>https://kuwait-electrician.com/img/poster-kw-3.png</image:loc>
-    <image:caption>نوفر خدمات كهربائية سريعة وفعالة تشمل تركيب الأنظمة الكهربائية الجديدة وإصلاح الأعطال الطارئة.</image:caption>
-    <image:title>فني كهربائي في الكويت - خدمات سريعة وموثوقة</image:title>
+    <image:caption>خدمات كهربائية سريعة وفعالة تشمل تركيب الأنظمة الكهربائية الجديدة وإصلاح الأعطال الطارئة في الكويت.</image:caption>
+    <image:title>فني كهربائي سريع في الكويت - خدمات موثوقة وعاجلة</image:title>
   </image:image>
 
   <!-- Image 1: صيانة كهرباء المنازل -->
   <image:image>
     <image:loc>https://kuwait-electrician.com/img/portfolio/1.png</image:loc>
-    <image:caption>صيانة كهرباء المنازل باحترافية عالية لضمان سلامة الأنظمة الكهربائية وتجنب الأعطال.</image:caption>
-    <image:title>صيانة كهرباء المنازل - فني كهربائي متخصص</image:title>
+    <image:caption>صيانة كهرباء المنازل باحترافية لضمان سلامة الأنظمة الكهربائية وتفادي الأعطال المستقبلية.</image:caption>
+    <image:title>صيانة كهرباء المنازل - فني كهربائي معتمد</image:title>
   </image:image>
 
   <!-- Image 2: تركيب الأنظمة الكهربائية -->
   <image:image>
     <image:loc>https://kuwait-electrician.com/img/portfolio/2.png</image:loc>
-    <image:caption>تركيب الأنظمة الكهربائية الجديدة بجودة عالية وتصميم آمن يتناسب مع احتياجاتك.</image:caption>
+    <image:caption>تركيب الأنظمة الكهربائية الجديدة بجودة عالية وتصميم آمن يتوافق مع معايير السلامة.</image:caption>
     <image:title>تركيب الأنظمة الكهربائية - فني كهربائي محترف</image:title>
   </image:image>
 
   <!-- Image 3: إصلاح الأعطال الكهربائية -->
   <image:image>
     <image:loc>https://kuwait-electrician.com/img/portfolio/3.png</image:loc>
-    <image:caption>إصلاح الأعطال الكهربائية بسرعة وكفاءة لضمان استمرارية الخدمة الكهربائية في منزلك أو شركتك.</image:caption>
-    <image:title>إصلاح الأعطال الكهربائية - خدمة سريعة وفعالة</image:title>
+    <image:caption>إصلاح الأعطال الكهربائية بسرعة وكفاءة لضمان استمرارية الخدمة الكهربائية في منزلك أو عملك.</image:caption>
+    <image:title>إصلاح الأعطال الكهربائية - خدمة سريعة ومضمونة</image:title>
   </image:image>
 
   <!-- Image 4: خدمات طوارئ كهربائية -->
   <image:image>
     <image:loc>https://kuwait-electrician.com/img/portfolio/4.png</image:loc>
-    <image:caption>خدمات طوارئ كهربائية متوفرة على مدار الساعة لحل الأعطال الطارئة بسرعة واحترافية.</image:caption>
+    <image:caption>خدمات طوارئ كهربائية متاحة على مدار الساعة لحل الأعطال الطارئة بسرعة واحترافية.</image:caption>
     <image:title>خدمات طوارئ كهربائية 24/7 - فني كهربائي متاح دائماً</image:title>
   </image:image>
 
   <!-- Image 5: تركيب الإضاءة الحديثة -->
   <image:image>
     <image:loc>https://kuwait-electrician.com/img/portfolio/5.png</image:loc>
-    <image:caption>تركيب الإضاءة الحديثة والأنظمة الكهربائية المتطورة لتوفير بيئة آمنة ومريحة.</image:caption>
+    <image:caption>تركيب الإضاءة الحديثة والأنظمة الكهربائية المتطورة لتوفير بيئة آمنة ومريحة في الكويت.</image:caption>
     <image:title>تركيب الإضاءة الحديثة - فني كهربائي متخصص</image:title>
+  </image:image>
+</url>
+
+  <!-- URL Entry for -->
+<url>
+  <loc>https://kuwait-electrician.com/hawally.html</loc>
+  <lastmod>2025-03-24</lastmod>
+
+  <!-- Image 1: Electrician Services -->
+  <image:image>
+    <image:loc>https://kuwait-electrician.com/img/poster-kw-1.png</image:loc>
+    <image:caption>خدمات كهربائية متخصصة في منطقة حولي تشمل صيانة المنازل، تركيب الأنظمة الكهربائية، وإصلاح الأعطال بكفاءة عالية.</image:caption>
+    <image:title>فني كهربائي في حولي - خدمات صيانة وتركيب كهربائية</image:title>
+  </image:image>
+
+  <!-- Image 2: Electrician Services -->
+  <image:image>
+    <image:loc>https://kuwait-electrician.com/img/poster-kw-2.png</image:loc>
+    <image:caption>فني كهربائي معتمد في حولي يقدم خدمات صيانة وإصلاح كهرباء المنازل والشركات بأسعار تنافسية وجودة ممتازة.</image:caption>
+    <image:title>خدمات كهربائية شاملة في حولي - صيانة وإصلاح بجودة عالية</image:title>
+  </image:image>
+
+  <!-- Image 3: Electrician Services -->
+  <image:image>
+    <image:loc>https://kuwait-electrician.com/img/poster-kw-3.png</image:loc>
+    <image:caption>خدمات كهربائية سريعة وفعالة في حولي تشمل تركيب الأنظمة الكهربائية الجديدة وإصلاح الأعطال الطارئة.</image:caption>
+    <image:title>فني كهربائي سريع في حولي - خدمات موثوقة وعاجلة</image:title>
+  </image:image>
+
+  <!-- Image 1: صيانة كهرباء المنازل -->
+  <image:image>
+    <image:loc>https://kuwait-electrician.com/img/portfolio/1.png</image:loc>
+    <image:caption>صيانة كهرباء المنازل في حولي باحترافية لضمان سلامة الأنظمة الكهربائية وتفادي الأعطال المستقبلية.</image:caption>
+    <image:title>صيانة كهرباء المنازل في حولي - فني كهربائي معتمد</image:title>
+  </image:image>
+
+  <!-- Image 2: تركيب الأنظمة الكهربائية -->
+  <image:image>
+    <image:loc>https://kuwait-electrician.com/img/portfolio/2.png</image:loc>
+    <image:caption>تركيب الأنظمة الكهربائية الجديدة في حولي بجودة عالية وتصميم آمن يتوافق مع معايير السلامة.</image:caption>
+    <image:title>تركيب الأنظمة الكهربائية في حولي - فني كهربائي محترف</image:title>
+  </image:image>
+
+  <!-- Image 3: إصلاح الأعطال الكهربائية -->
+  <image:image>
+    <image:loc>https://kuwait-electrician.com/img/portfolio/3.png</image:loc>
+    <image:caption>إصلاح الأعطال الكهربائية في حولي بسرعة وكفاءة لضمان استمرارية الخدمة الكهربائية في منزلك أو عملك.</image:caption>
+    <image:title>إصلاح الأعطال الكهربائية في حولي - خدمة سريعة ومضمونة</image:title>
+  </image:image>
+
+  <!-- Image 4: خدمات طوارئ كهربائية -->
+  <image:image>
+    <image:loc>https://kuwait-electrician.com/img/portfolio/4.png</image:loc>
+    <image:caption>خدمات طوارئ كهربائية في حولي متاحة على مدار الساعة لحل الأعطال الطارئة بسرعة واحترافية.</image:caption>
+    <image:title>خدمات طوارئ كهربائية 24/7 في حولي - فني كهربائي متاح دائماً</image:title>
+  </image:image>
+
+  <!-- Image 5: تركيب الإضاءة الحديثة -->
+  <image:image>
+    <image:loc>https://kuwait-electrician.com/img/portfolio/5.png</image:loc>
+    <image:caption>تركيب الإضاءة الحديثة والأنظمة الكهربائية المتطورة في حولي لتوفير بيئة آمنة ومريحة.</image:caption>
+    <image:title>تركيب الإضاءة الحديثة في حولي - فني كهربائي متخصص</image:title>
+  </image:image>
+</url>
+
+  <!-- URL Entry for -->
+<url>
+  <loc>https://kuwait-electrician.com/jahra.html</loc>
+  <lastmod>2025-03-24</lastmod>
+
+  <!-- Image 1: Electrician Services -->
+  <image:image>
+    <image:loc>https://kuwait-electrician.com/img/poster-kw-1.png</image:loc>
+    <image:caption>خدمات كهربائية متخصصة في منطقة الجهراء تشمل صيانة المنازل، تركيب الأنظمة الكهربائية، وإصلاح الأعطال بكفاءة عالية.</image:caption>
+    <image:title>فني كهربائي في الجهراء - خدمات صيانة وتركيب كهربائية</image:title>
+  </image:image>
+
+  <!-- Image 2: Electrician Services -->
+  <image:image>
+    <image:loc>https://kuwait-electrician.com/img/poster-kw-2.png</image:loc>
+    <image:caption>فني كهربائي معتمد في الجهراء يقدم خدمات صيانة وإصلاح كهرباء المنازل والشركات بأسعار تنافسية وجودة ممتازة.</image:caption>
+    <image:title>خدمات كهربائية شاملة في الجهراء - صيانة وإصلاح بجودة عالية</image:title>
+  </image:image>
+
+  <!-- Image 3: Electrician Services -->
+  <image:image>
+    <image:loc>https://kuwait-electrician.com/img/poster-kw-3.png</image:loc>
+    <image:caption>خدمات كهربائية سريعة وفعالة في الجهراء تشمل تركيب الأنظمة الكهربائية الجديدة وإصلاح الأعطال الطارئة.</image:caption>
+    <image:title>فني كهربائي سريع في الجهراء - خدمات موثوقة وعاجلة</image:title>
+  </image:image>
+
+  <!-- Image 1: صيانة كهرباء المنازل -->
+  <image:image>
+    <image:loc>https://kuwait-electrician.com/img/portfolio/1.png</image:loc>
+    <image:caption>صيانة كهرباء المنازل في الجهراء باحترافية لضمان سلامة الأنظمة الكهربائية وتفادي الأعطال المستقبلية.</image:caption>
+    <image:title>صيانة كهرباء المنازل في الجهراء - فني كهربائي معتمد</image:title>
+  </image:image>
+
+  <!-- Image 2: تركيب الأنظمة الكهربائية -->
+  <image:image>
+    <image:loc>https://kuwait-electrician.com/img/portfolio/2.png</image:loc>
+    <image:caption>تركيب الأنظمة الكهربائية الجديدة في الجهراء بجودة عالية وتصميم آمن يتوافق مع معايير السلامة.</image:caption>
+    <image:title>تركيب الأنظمة الكهربائية في الجهراء - فني كهربائي محترف</image:title>
+  </image:image>
+
+  <!-- Image 3: إصلاح الأعطال الكهربائية -->
+  <image:image>
+    <image:loc>https://kuwait-electrician.com/img/portfolio/3.png</image:loc>
+    <image:caption>إصلاح الأعطال الكهربائية في الجهراء بسرعة وكفاءة لضمان استمرارية الخدمة الكهربائية في منزلك أو عملك.</image:caption>
+    <image:title>إصلاح الأعطال الكهربائية في الجهراء - خدمة سريعة ومضمونة</image:title>
+  </image:image>
+
+  <!-- Image 4: خدمات طوارئ كهربائية -->
+  <image:image>
+    <image:loc>https://kuwait-electrician.com/img/portfolio/4.png</image:loc>
+    <image:caption>خدمات طوارئ كهربائية في الجهراء متاحة على مدار الساعة لحل الأعطال الطارئة بسرعة واحترافية.</image:caption>
+    <image:title>خدمات طوارئ كهربائية 24/7 في الجهراء - فني كهربائي متاح دائماً</image:title>
+  </image:image>
+
+  <!-- Image 5: تركيب الإضاءة الحديثة -->
+  <image:image>
+    <image:loc>https://kuwait-electrician.com/img/portfolio/5.png</image:loc>
+    <image:caption>تركيب الإضاءة الحديثة والأنظمة الكهربائية المتطورة في الجهراء لتوفير بيئة آمنة ومريحة.</image:caption>
+    <image:title>تركيب الإضاءة الحديثة في الجهراء - فني كهربائي متخصص</image:title>
+  </image:image>
+</url>
+
+  <!-- URL Entry for -->
+<url>
+  <loc>https://kuwait-electrician.com/ahmadi.html</loc>
+  <lastmod>2025-03-24</lastmod>
+
+  <!-- Image 1: Electrician Services -->
+  <image:image>
+    <image:loc>https://kuwait-electrician.com/img/poster-kw-1.png</image:loc>
+    <image:caption>خدمات كهربائية متخصصة في منطقة الأحمدي تشمل صيانة المنازل، تركيب الأنظمة الكهربائية، وإصلاح الأعطال بكفاءة عالية.</image:caption>
+    <image:title>فني كهربائي في الأحمدي - خدمات صيانة وتركيب كهربائية</image:title>
+  </image:image>
+
+  <!-- Image 2: Electrician Services -->
+  <image:image>
+    <image:loc>https://kuwait-electrician.com/img/poster-kw-2.png</image:loc>
+    <image:caption>فني كهربائي معتمد في الأحمدي يقدم خدمات صيانة وإصلاح كهرباء المنازل والشركات بأسعار تنافسية وجودة ممتازة.</image:caption>
+    <image:title>خدمات كهربائية شاملة في الأحمدي - صيانة وإصلاح بجودة عالية</image:title>
+  </image:image>
+
+  <!-- Image 3: Electrician Services -->
+  <image:image>
+    <image:loc>https://kuwait-electrician.com/img/poster-kw-3.png</image:loc>
+    <image:caption>خدمات كهربائية سريعة وفعالة في الأحمدي تشمل تركيب الأنظمة الكهربائية الجديدة وإصلاح الأعطال الطارئة.</image:caption>
+    <image:title>فني كهربائي سريع في الأحمدي - خدمات موثوقة وعاجلة</image:title>
+  </image:image>
+
+  <!-- Image 1: صيانة كهرباء المنازل -->
+  <image:image>
+    <image:loc>https://kuwait-electrician.com/img/portfolio/1.png</image:loc>
+    <image:caption>صيانة كهرباء المنازل في الأحمدي باحترافية لضمان سلامة الأنظمة الكهربائية وتفادي الأعطال المستقبلية.</image:caption>
+    <image:title>صيانة كهرباء المنازل في الأحمدي - فني كهربائي معتمد</image:title>
+  </image:image>
+
+  <!-- Image 2: تركيب الأنظمة الكهربائية -->
+  <image:image>
+    <image:loc>https://kuwait-electrician.com/img/portfolio/2.png</image:loc>
+    <image:caption>تركيب الأنظمة الكهربائية الجديدة في الأحمدي بجودة عالية وتصميم آمن يتوافق مع معايير السلامة.</image:caption>
+    <image:title>تركيب الأنظمة الكهربائية في الأحمدي - فني كهربائي محترف</image:title>
+  </image:image>
+
+  <!-- Image 3: إصلاح الأعطال الكهربائية -->
+  <image:image>
+    <image:loc>https://kuwait-electrician.com/img/portfolio/3.png</image:loc>
+    <image:caption>إصلاح الأعطال الكهربائية في الأحمدي بسرعة وكفاءة لضمان استمرارية الخدمة الكهربائية في منزلك أو عملك.</image:caption>
+    <image:title>إصلاح الأعطال الكهربائية في الأحمدي - خدمة سريعة ومضمونة</image:title>
+  </image:image>
+
+  <!-- Image 4: خدمات طوارئ كهربائية -->
+  <image:image>
+    <image:loc>https://kuwait-electrician.com/img/portfolio/4.png</image:loc>
+    <image:caption>خدمات طوارئ كهربائية في الأحمدي متاحة على مدار الساعة لحل الأعطال الطارئة بسرعة واحترافية.</image:caption>
+    <image:title>خدمات طوارئ كهربائية 24/7 في الأحمدي - فني كهربائي متاح دائماً</image:title>
+  </image:image>
+
+  <!-- Image 5: تركيب الإضاءة الحديثة -->
+  <image:image>
+    <image:loc>https://kuwait-electrician.com/img/portfolio/5.png</image:loc>
+    <image:caption>تركيب الإضاءة الحديثة والأنظمة الكهربائية المتطورة في الأحمدي لتوفير بيئة آمنة ومريحة.</image:caption>
+    <image:title>تركيب الإضاءة الحديثة في الأحمدي - فني كهربائي متخصص</image:title>
   </image:image>
 </url>
 
